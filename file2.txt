@@ -1,1 +1,1 @@
-changed file 2
+changed file2.txt
